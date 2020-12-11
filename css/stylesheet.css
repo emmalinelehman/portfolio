@@ -39,7 +39,7 @@ ul{
 
 /*header*/
 header{
-    background-image:url('../img/dynamic-style.png');
+    background:url('../img/dynamic-style.png');
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
